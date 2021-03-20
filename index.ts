@@ -1,3 +1,5 @@
+import { initialPortfolioContent } from "./portfolioContentDefaultData";
+
 export interface portfolioContentT {
   tabSectionTitles: {
     [index: number]: {
@@ -49,4 +51,6 @@ export interface portfolioContentT {
     linkedin: string;
   };
 }
+
 export default portfolioContentT;
+export const portfolioContentDefaultData = initialPortfolioContent;
