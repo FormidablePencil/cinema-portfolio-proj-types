@@ -1,4 +1,7 @@
-import { initialPortfolioContent } from "./portfolioContentDefaultData";
+import {
+  initialPortfolioContent,
+  pfcDefaults,
+} from "./portfolioContentDefaultData";
 
 interface portfolioContentT {
   tabSectionTitles: {
@@ -54,3 +57,4 @@ interface portfolioContentT {
 
 export default portfolioContentT;
 export const portfolioContentDefaultData = initialPortfolioContent;
+export { pfcDefaults };
