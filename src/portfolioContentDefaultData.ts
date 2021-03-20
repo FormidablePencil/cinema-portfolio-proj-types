@@ -1,4 +1,4 @@
-import { portfolioContentT } from "./index";
+import portfolioContentT from "./index";
 
 export const pfcDefaults = {
   tabSectionTitles: [
