@@ -53,4 +53,4 @@ export interface portfolioContentT {
 }
 
 export default portfolioContentT;
-export const portfolioContentDefaultData = initialPortfolioContent;
+// export const portfolioContentDefaultData = initialPortfolioContent;
