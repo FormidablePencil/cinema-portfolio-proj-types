@@ -1,5 +1,6 @@
+import { initialPortfolioContent } from "./portfolioContentDefaultData";
 
-export interface portfolioContentT {
+interface portfolioContentT {
   tabSectionTitles: {
     [index: number]: {
       tabTitle: string;
@@ -52,4 +53,4 @@ export interface portfolioContentT {
 }
 
 export default portfolioContentT;
-// export const portfolioContentDefaultData = initialPortfolioContent;
+export const portfolioContentDefaultData = initialPortfolioContent;
