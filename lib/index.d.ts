@@ -1,3 +1,4 @@
+import { pfcDefaults } from "./portfolioContentDefaultData";
 interface portfolioContentT {
     tabSectionTitles: {
         [index: number]: {
@@ -55,4 +56,5 @@ interface portfolioContentT {
 }
 export default portfolioContentT;
 export declare const portfolioContentDefaultData: portfolioContentT;
+export { pfcDefaults };
 //# sourceMappingURL=index.d.ts.map
