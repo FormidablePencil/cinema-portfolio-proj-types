@@ -1,7 +1,7 @@
 {
   "name": "cinema-portfolio-proj-types",
   "version": "0.0.1",
-  "dependencies": {
+  "peerDependencies": {
     "typescript": "^4.2.3"
   }
 }
