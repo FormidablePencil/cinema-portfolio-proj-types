@@ -1,4 +1,3 @@
-import { initialPortfolioContent } from "./portfolioContentDefaultData";
 
 export interface portfolioContentT {
   tabSectionTitles: {
