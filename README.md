@@ -1,6 +1,6 @@
 # cinema-portfolio-proj-types
 
-These are types to the cinema-portfolio project. 
+These are types for the cinema-portfolio project. 
 
 The repos that use this repo are:
 - https://github.com/FormidablePencil/parallax-effect-crystals
